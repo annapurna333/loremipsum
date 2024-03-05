@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div class="bg-container">
+        <div class="lorem-ipsum-top-container" id="sectionTop">
+            <div class="nav-bar">
+                <p class="nav-item">Home</p>
+                <p class="nav-item">Order</p>
+                <p class="nav-item">Food</p>
+                <p class="nav-item">Restaurant</p>
+                <p class="nav-item">Testimonials</p>
+                <p class="nav-item">Contact Us</p>
+                <img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709635635/menu-bar_fkvwpm.png" class="nav-image" />
+            </div>
+            <div class="content-container">
+                <div class="content">
+                    <div class="information">
+                        <h1 class="title">LOREM IPSUM</h1>
+                        <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+                            id est vitae dolor rhoncus tristique. Maecenas metus quam,
+                            rhoncus euismod lorem in, sollicitudin viverra eros. Donec
+                            dictum luctus quam ut tristique. Curabitur nec faucibus purus.
+                            Quisque congue sem nec justo mollis, in tincidunt erat pretium.
+                            Sed pulvinar, massa ac porta viverra.
+                        </p>
+                        <button class="click-button">Click Me</button>
+                    </div>
+                </div>
+                <div class="image-container">
+                    <img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709636501/pexels-robin-stickel-70497_onu9o1.jpg" class="main-image" />
+                </div>
+            </div>
+        </div>
+        <div class="lorem-ipsum-bottom-container" id="sectionBottom">
+            <div class="street-images-container">
+                <img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709638981/pexels-rachel-claire-6752433_cykhmw.jpg" class="image-of-street" />
+                <img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709639128/pexels-eva-bronzini-6141651_mexqpv.jpg" class="image-of-street" />
+            </div>
+            <div class="food-image-container">
+                <img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709639219/pexels-mister-mister-3434523_krjywr.jpg" class="food-image" />
+            </div>
+            <div class="lorem-ipsum-page">
+                <p class="descriptions">LOREM IPSUM</p>
+                <h1 class="titles">LOREM IPSUM SET ADEMIR</h1>
+                <div class="click-container">
+                    <p class="descriptions">Click <span><img src="https://res.cloudinary.com/dwpdohhlx/image/upload/v1709639426/icons8-arrow-30_ddmeo3.png" class="click-image" /></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
